@@ -1,0 +1,35 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "an app that letas you take notes",
+  "main": "server.js",
+  "engines": {
+    "npm": "8.5.0",
+    "node": "16.14.2"
+  
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josemiguel20000/expert-meme-notetak3r.git"
+  },
+  "keywords": [
+    "note-taker",
+    "heroku"
+  ],
+  "author": "Josemiguel Fernandez",
+  "license": "MIT",
+  "dependencies": {
+    "custom-env": "^2.0.1",
+    "dotenv": "^16.0.1",
+    "express": "^4.17.1",
+    "serve": "^13.0.2",
+    "uuid": "^8.3.2"
+  },
+  "bugs": {
+    "url": "https://github.com/josemiguel20000/expert-meme-notetak3r/issues"
+  },
+  "homepage": "https://github.com/josemiguel20000/expert-meme-notetak3r#readme"
+}
